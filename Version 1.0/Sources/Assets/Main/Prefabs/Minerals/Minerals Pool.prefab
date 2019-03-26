@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8526306911552801838
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8526306911552801836}
+  - component: {fileID: 8526306911552801839}
+  m_Layer: 0
+  m_Name: Minerals Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8526306911552801836
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8526306911552801838}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8526306911552801839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8526306911552801838}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ab41489d77289f4a81884530bb51f91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mineralsList:
+  - mineral: {fileID: 1022388568819886, guid: d59ade1d677233c46b5b36c8655402cf, type: 3}
+    numberMinerals: 35
+  - mineral: {fileID: 1805821156099266, guid: e749ad45e1b543c40a866bdfc604e748, type: 3}
+    numberMinerals: 35
+  - mineral: {fileID: 1805821156099266, guid: 4e26a6597c0299742bb8f26debbce585, type: 3}
+    numberMinerals: 35
+  - mineral: {fileID: 1805821156099266, guid: 059e2d5674cf3a84d8bc76e8630acc68, type: 3}
+    numberMinerals: 35
+  - mineral: {fileID: 1805821156099266, guid: 7c6d70fc9bb53b94bbc412def98fa7d2, type: 3}
+    numberMinerals: 35
+  - mineral: {fileID: 1805821156099266, guid: dacd8c8b6e2e63f40b2981ba1ef50a1b, type: 3}
+    numberMinerals: 35
+  - mineral: {fileID: 1805821156099266, guid: 530deb4ac450a8c40b6b775ce83243e3, type: 3}
+    numberMinerals: 30
+  - mineral: {fileID: 1805821156099266, guid: 4406c8503f18b1249a5e977056835ecf, type: 3}
+    numberMinerals: 35
+  - mineral: {fileID: 1805821156099266, guid: f90690859e999ac42b48d914fb5ef977, type: 3}
+    numberMinerals: 30
+  - mineral: {fileID: 1805821156099266, guid: 4a8b3b7f764d8b44da3c0fcec1093f25, type: 3}
+    numberMinerals: 30
+  - mineral: {fileID: 1805821156099266, guid: eb84156bb58e40d4eac03410df56c032, type: 3}
+    numberMinerals: 30
+  - mineral: {fileID: 1805821156099266, guid: d8f90d318b0485646bfdb53ec372bd7a, type: 3}
+    numberMinerals: 30

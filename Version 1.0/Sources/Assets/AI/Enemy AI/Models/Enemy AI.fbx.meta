@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 299b622e0bae68544bc135f5fdbaf860
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AI_Sphere
+    100002: AI_Sphere.001
+    100004: AI_Sphere.002
+    100006: //RootNode
+    100008: AI_Sphere_0
+    100010: AI_Sphere_0_Lod
+    100012: AI_Sphere_1
+    100014: AI_Sphere_1_Lod
+    100016: AI_Sphere_2
+    100018: AI_Sphere_2_Lod
+    100020: Invisible
+    100022: Icosphere
+    100024: Lod 0
+    100026: Sphere
+    100028: Sphere.001
+    100030: Lod 1
+    400000: AI_Sphere
+    400002: AI_Sphere.001
+    400004: AI_Sphere.002
+    400006: //RootNode
+    400008: AI_Sphere_0
+    400010: AI_Sphere_0_Lod
+    400012: AI_Sphere_1
+    400014: AI_Sphere_1_Lod
+    400016: AI_Sphere_2
+    400018: AI_Sphere_2_Lod
+    400020: Invisible
+    400022: Icosphere
+    400024: Lod 0
+    400026: Sphere
+    400028: Sphere.001
+    400030: Lod 1
+    2300000: AI_Sphere
+    2300002: AI_Sphere.001
+    2300004: AI_Sphere.002
+    2300006: AI_Sphere_0
+    2300008: AI_Sphere_0_Lod
+    2300010: AI_Sphere_1
+    2300012: AI_Sphere_1_Lod
+    2300014: AI_Sphere_2
+    2300016: AI_Sphere_2_Lod
+    2300018: Invisible
+    2300020: Icosphere
+    2300022: Lod 0
+    2300024: Sphere
+    2300026: Sphere.001
+    2300028: Lod 1
+    3300000: AI_Sphere
+    3300002: AI_Sphere.001
+    3300004: AI_Sphere.002
+    3300006: AI_Sphere_0
+    3300008: AI_Sphere_0_Lod
+    3300010: AI_Sphere_1
+    3300012: AI_Sphere_1_Lod
+    3300014: AI_Sphere_2
+    3300016: AI_Sphere_2_Lod
+    3300018: Invisible
+    3300020: Icosphere
+    3300022: Lod 0
+    3300024: Sphere
+    3300026: Sphere.001
+    3300028: Lod 1
+    4300000: AI_Sphere.002
+    4300002: AI_Sphere.001
+    4300004: AI_Sphere
+    4300006: AI_Sphere_2_Lod
+    4300008: AI_Sphere_1_Lod
+    4300010: AI_Sphere_0_Lod
+    4300012: AI_Sphere_0
+    4300014: AI_Sphere_1
+    4300016: AI_Sphere_2
+    4300018: Invisible
+    4300020: Icosphere
+    4300022: Sphere
+    4300024: Lod 0
+    4300026: Sphere.001
+    4300028: Lod 1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 181aa31e21e6de7498c19f33d77323d5, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

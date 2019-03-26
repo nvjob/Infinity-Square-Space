@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet Default
+  - Bullet Laser
+  - Bullet Light
+  - Bullet Eraser
+  - Bullet Destroyer
+  - Bullet Collapsar
+  - Mineral 0
+  - Mineral 1
+  - Mineral 2
+  - Mineral 3
+  - Mineral 4
+  - Mineral 5
+  - Mineral 6
+  - Mineral 7
+  - Mineral 8
+  - Mineral 9
+  - Mineral 10
+  - Mineral 11
+  - SunKilling
+  - BlackHole
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Pulse
+  - AI Enemy
+  - Minerals
+  - Bullets
+  - AI Enemy Bullets
+  - AI Friend
+  - AI Friend Bullets
+  - Minerals Collector
+  - Base AI Enemy
+  - Cloud
+  - Chunk Cube LOD 0
+  - Chunk Cube LOD 1
+  - Chunk Cube LOD 2
+  - 
+  - Menu Selector
+  - 
+  - Sun
+  - 
+  - Gravity
+  - Debris
+  - Planets and Moons
+  - 
+  - Trees
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

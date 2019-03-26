@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sky
+  m_Shader: {fileID: 4800000, guid: 15932eb2aca0e9b489535851a29aa8eb, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0.99859005, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Brightness: 0.0032
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DistFading: 0.62
+    - _DstBlend: 0
+    - _FrequencyVariation: 0.779
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _IntensityR: 0.5
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _Sparsity: 0.25
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _StepSize: 0.41
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _Zoom: 5.2
+    m_Colors:
+    - _Color: {r: 0.3923551, g: 0.40122077, b: 0.43382353, a: 1}
+    - _ColorA: {r: 0.24821857, g: 0.22039999, b: 0.29, a: 1}
+    - _ColorB: {r: 0.278199, g: 0.21900001, b: 0.3, a: 1}
+    - _ColorD1: {r: 0.23137255, g: 0.19215687, b: 0.3529412, a: 1}
+    - _ColorD2: {r: 0.14078721, g: 0.14396258, b: 0.20588237, a: 1}
+    - _ColorR: {r: 0.73, g: 0.34, b: 0.34, a: 0}
+    - _ColorT: {r: 0.19215687, g: 0.2, b: 0.3529412, a: 1}
+    - _Direction: {r: 0, g: 9, b: 0, a: 0}
+    - _Direction2: {r: 0, g: -9, b: 0, a: 0}
+    - _DirectionG: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Offset: {r: 0, g: 0, b: 0, a: 0}
+    - _Origin: {r: 0, g: 0, b: 0, a: 0}
+    - _Resolution: {r: 0, g: 0, b: 0, a: 0}

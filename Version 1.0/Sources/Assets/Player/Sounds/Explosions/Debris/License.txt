@@ -1,0 +1,6 @@
+https://freesound.org/people/OGsoundFX/sounds/423120/
+Sound normalization, frequency response correction, sound attenuation (explosion effect).
+
+
+Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/

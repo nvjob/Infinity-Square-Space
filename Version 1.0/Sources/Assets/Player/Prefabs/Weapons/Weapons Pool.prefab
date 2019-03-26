@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1348753489104507622
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8700472268653477392}
+  - component: {fileID: 8831811311037172982}
+  m_Layer: 0
+  m_Name: Weapons Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8700472268653477392
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1348753489104507622}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8831811311037172982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1348753489104507622}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c79d0bd491c46eb4aa67e66013419f07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  weaponsList:
+  - weapon: {fileID: 1185536635946892, guid: d216453a4ce67954595c4d59a4c2db43, type: 3}
+    numberWeapons: 50
+  - weapon: {fileID: 1185536635946892, guid: 71054b354515ef6448c33f5b27581ef9, type: 3}
+    numberWeapons: 50
+  - weapon: {fileID: 1185536635946892, guid: 47dc0fa3651776843ad36fd6bc00b0fe, type: 3}
+    numberWeapons: 50
+  - weapon: {fileID: 1274255285676184, guid: b21672b6e15c77545baeac2120a99afa, type: 3}
+    numberWeapons: 50
+  - weapon: {fileID: 1274255285676184, guid: 3f168441f3406954098f91118fe02714, type: 3}
+    numberWeapons: 50
+  - weapon: {fileID: 1274255285676184, guid: bb5263b6a77e19b4eaa9c8be2d63c82b, type: 3}
+    numberWeapons: 50
+  - weapon: {fileID: 1185536635946892, guid: 8cf39a7e35dba1f49b905a49dfb2e67a, type: 3}
+    numberWeapons: 50
+  - weapon: {fileID: 1185536635946892, guid: 5ccb88dd0cfc45b4887f1f8d7aa99f49, type: 3}
+    numberWeapons: 50
+  - weapon: {fileID: 1274255285676184, guid: 6515bd72fc4d0e74199b6a8a3afd5dc2, type: 3}
+    numberWeapons: 50
+  - weapon: {fileID: 1665484402571566, guid: 5b2b79ec523c73b4ea6134f9893f52c2, type: 3}
+    numberWeapons: 300
+  - weapon: {fileID: 1665484402571566, guid: 8473b82f9ae5b0f40899b5edcaaaad8a, type: 3}
+    numberWeapons: 300
+  - weapon: {fileID: 1440029696543229994, guid: 0ac8acefcf538b242a225bc71c361ca6,
+      type: 3}
+    numberWeapons: 50
