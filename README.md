@@ -43,6 +43,10 @@ The “StarSystem” script in the “Main” scene is responsible for generatin
 ![GitHub Logo](https://lh3.googleusercontent.com/3fXZxkq3ewSv_80SnGBssy-HZuixjpSTiAafIwZn8hXR1n21qbpcxiLp2VzUTBVotRiajXg6op0zghc9isbRH4kuLH5ZRmeeo3oye5DhQPGailSvm-Qr513C1OEnVhzJPC72nDn-mUV2fPUdz-2Zwy8uYUqF9f_UG9tg8fv0t8GahKwFoHb7r1OaYupjeGyUFyVUtsxMl0GAy9-xBQJUMF4yUX1DJ1V-AiAwUR21hu4O52OXUb05RjZblPvMXyPr5ztR9Jp2UknhP2vjcOucpQav1kr9T3xdHA0iVQtuIayYxOGWS4axvuFsSDajRCbpscyA34D09pMJaEeT-IGxeTWiK8Kfm3ex9tWZyyRLv81ZmbfpZsUOuwgwj-3m-JzmwHWVd0lcdL7gTGDE91S0f2DGPZ70WHFvFjYPoTok_SLeI2Uz1gOAaG2djUD1Qgu-khYuMW59NX0M1m4Sw5-6dP8n26Dpr8NHRVO4VA4o_UAwNaibu-IW2Y98vtZTHvOdJyNH7NOIJuofcj42YC1me8mN0KBykJ5zL0SEcLzA_NzXT5A96G0MflzKR9ynEesemyIXOhBbpfevZby02l0XpYDFsZZ4iY6I-Wgli3lobSz4B6fcoNUQbJPG81QGYQYanfp-Ul_bdUiUxHnW8xdDyBEcJm6kWMTXs8Zd3d4DrLBubA1GnFi95XwYN0DsdxeowOMLuLcW_umm4ASYQ0xx_SRx=w558-h402-no)
 ![GitHub Logo](https://lh3.googleusercontent.com/vVQzJyFGEty4NRkFcKS9t5KqLNA-FMc6Nrgzpk6LqHnzgyF3mxpJoxsZebly6zeA1pzkv-9zHm4EBoSlAfcANEy2GRyGrwE81UaLDOtR0HnSb5wFfVTUQKxYJE2A_Uv5nFF_NVBS_Nt_bd6aD_4Qpf18V66_3d4VgN2tGc4nBHIVCOxx8XYnVlNFgB4Fy5RBcvb3UTL4KxfakRoaufuhAJDDkPdZ8q-NHrmptDjV3vszcKQ8fbd8ssXJ77Z0mX-Is7j6yVFsZdo7eJfhLhQalng0G_iAhK5vezWe5MI8EF9uMgLwcfdHruAhgsb-EGcy0V0E3Vt2p1kYld8sF-kTbGRkRzV8s52iJgrLldYEPbow6r4oWM_nKvwtWIHFazNekjYmK4ZEyqttgG7kBwN4VIT9S1dG7O0DTD--cLo5pBdRDIxADYagrHJvlM921aAQpcPdUPHxUVWmeuKyBsT7vrpQZUqkifkQ9PFUvVCiPOhVCAsf8FxDzVGilQvFXwIkVDwc5vzcQ9u3JGsNRLZ5Jx8M2yV6rgXgLs8K8XyE72vne_5LlOTrmkmB1nNc84Fl_b5jj4tEFRvoNhIV-tJMog0kbpPV_xmpBko7iLjD_R65z5fDfC4IIA4AIhA8JKTY_ndBipx6JKmogm3NiHMZKRvfllRLtSs3hGPAyMg2V3ssHjcCXRve9fGZQKsXlvkxylrkffN2DuJZP2zkJ5ijWgmi=w759-h428-no)
 
+**When you first start in the editor, first start the “Menu” scene to apply the settings of the “Main” scene, which are stored in “PlayerPrefs”. To test the main “Main” scene, you can generate the star systems you need using test seed.**
+
+![GitHub Logo](https://lh3.googleusercontent.com/MxY83Nj3Nvlh-MJtwowMkSzgulTPVm6c2kkbyf5utVwlVfRp5G5QS8M13MX7Q5BQbOvKG_1pDKiaRYQ6knQE6owfukIylwusyv4zLtXIm63OXQO3--7PoWIWr9ZOlSEkgBH-6H8YsE-MDCfiqh0U_FSN_ouT0daRPuuZ3rZUkRzOsb-DPiNug2DcXrwIJw4GzKvhPPZlMWCIsMVfeCMGf2cMrBIH3O4Mf524xL_feSkeOskKyrrjnQwjsPDZ0XGx9ACj6KjpWnIoCgwaDsmh4ffM8fV1UNH5Z8uUewE2mevbQSacUrliBz3nGlSViGq2Bl2VqJ2GtKaKSM0dPtNp-N456P9Y_aRBNp2_shJN9pv5E7BMRKJGh3p7CVAIKwAm6AxOJr-rK4-BTWlUOj2GZZmjUR0_GEXBe8LzTr5QTTPTbKe3VKEDspx0BdQEdYGVtlNoqjipU8Rk6v5rWd6L27rgz32eEY59HZ4Z_pT36AhZdDls8Zt1w7L5gayr2ej-G0rPm__POy5nJ8koZsDt9GPf7gzgGwPNUGYarjVuPrvwPaZiXxhSrxyO2mnipe7zVTliqb3l1IpNGOccp_WQRi2K_oVf-xOfsLJOeXZAx2qbBgCcRnKDETgsIWFtEMQg8EFxsNg4_duueBcnNvCnOcVL67EtXSYZDtNFUJLAe5M1uivfB9n4lDK62sk9SZovaj9v-dy3vC2zuK31s2nlECFK=w278-h345-no)
+
 ------------------------------------
 
 ### Authors
@@ -50,3 +54,6 @@ Nicholas Veselov - Development and design. https://nvjob.pro
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details
+
+### Notice
+I am aware that sounds do not spread in space. And there are no square planets in space. And gravity works differently.
