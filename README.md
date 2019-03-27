@@ -1,6 +1,5 @@
 # Infinity Square/Space.
-### The prototype of the game is open source.
-##### Version 1.0
+### The prototype of the game is open source. Version 1.0
 
 This is a prototype of a game with a procedurally generated world. The world in the game is very large and it is most likely impossible to complete the game, the whole world is almost completely destructible.
 
