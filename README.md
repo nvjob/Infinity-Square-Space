@@ -23,5 +23,5 @@ To work on the project, you will need a Unity version of at least 2018.3.9f1 (64
 
 ### Installation:
 - Create a new project in Unity.
-- Download from the folder Infinity-Square-Space / Version 1.0 / Sources / archive Assets.zip, ProjectSettings.zip and unpack them in the directory of your new project.
+- Download from the folder [Infinity-Square-Space/Version 1.0/Sources/](https://github.com/nvjob/Infinity-Square-Space/tree/master/Version%201.0/Sources) archive Assets.zip, ProjectSettings.zip and unpack them in the directory of your new project.
 - Open the desired scene in the Scenes directory.
