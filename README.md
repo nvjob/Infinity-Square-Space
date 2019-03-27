@@ -29,7 +29,7 @@ To work on the project, you will need a Unity version of at least 2018.3.9f1 (64
 ------------------------------------
 
 ### Authors
-Nicholas Veselov - Development and design.
+Nicholas Veselov - Development and design. https://nvjob.pro
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details
