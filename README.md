@@ -17,6 +17,8 @@ The source contains all the tools for the development of the game, but you need 
 
 In the folder [Infinity-Square-Space/Version 1.0/Compiled Builds/](https://github.com/nvjob/Infinity-Square-Space/tree/master/Version%201.0/Compiled%20Builds) are compiled builds of the game, under different API DirectX 11, DirectX 12 and Vulkan.
 
+Web version - https://nvjob.itch.io/infinity-square-space-web
+
 ------------------------------------
 
 ### Prerequisites
