@@ -12,3 +12,16 @@ The source contains all the tools for the development of the game, but you need 
 - The system of destruction, based on the substitution of objects, objects from the pool of static objects.
 - Artificial intelligence, with a primitive simulation of life and interaction with each other, the world and the player.
 - Game controller, with a set of weapons and skills.
+
+In the folder [Infinity-Square-Space/Version 1.0/Compiled Builds/](https://github.com/nvjob/Infinity-Square-Space/tree/master/Version%201.0/Compiled%20Builds) are compiled builds of the game, under different API DirectX 11, DirectX 12 and Vulkan.
+
+------------------------------------
+
+### Prerequisites
+
+To work on the project, you will need a Unity version of at least 2018.3.9f1 (64-bit).
+
+### Installation:
+- Create a new project in Unity.
+- Download from the folder Infinity-Square-Space / Version 1.0 / Sources / archive Assets.zip, ProjectSettings.zip and unpack them in the directory of your new project.
+- Open the desired scene in the Scenes directory.
