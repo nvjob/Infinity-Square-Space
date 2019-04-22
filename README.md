@@ -55,6 +55,7 @@ The “StarSystem” script in the “Main” scene is responsible for generatin
 
 ### Authors
 Designed by #NVJOB Nicholas Veselov
+
 https://nvjob.pro | http://nvjob.dx.am | https://twitter.com/nvjob
 
 ### License
