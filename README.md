@@ -26,6 +26,7 @@ Web version - https://nvjob.itch.io/infinity-square-space-web
 ### Prerequisites
 
 To work on the project, you will need a Unity version of at least 2018.3.9f1 (64-bit).
+Scripting Runtime Version - .net 4.x Equivalent 
 
 ### Installation:
 - Create a new project in Unity.
