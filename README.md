@@ -71,8 +71,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 I am aware that sounds do not spread in space. And there are no square planets in space. And gravity works differently.
 
 ### Donate
-You can thank me by a voluntary donation. <br>
-ko_fi: https://ko-fi.com/nvjob_dev <br>
-liberapay: https://liberapay.com/nvjob <br>
-issuehunt: https://issuehunt.io/r/nvjob <br>
-paypal: https://paypal.me/nvjob
+You can thank me by a voluntary donation. https://nvjob.pro/donations.html
