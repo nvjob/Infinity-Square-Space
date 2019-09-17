@@ -70,7 +70,7 @@ I am aware that sounds do not spread in space. And there are no square planets i
 
 ### Donate
 You can thank me by a voluntary donation. <br>
-ko_fi: ko-fi.com/nvjob_dev <br>
-liberapay: liberapay.com/nvjob <br>
-issuehunt: issuehunt.io/r/nvjob <br>
-paypal: https://www.paypal.me/nvjob
+ko_fi: https://ko-fi.com/nvjob_dev <br>
+liberapay: https://liberapay.com/nvjob <br>
+issuehunt: https://issuehunt.io/r/nvjob <br>
+paypal: https://paypal.me/nvjob
