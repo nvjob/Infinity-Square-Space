@@ -1,5 +1,5 @@
 # Infinity Square/Space.
-### The prototype of the game is open source. Version 1.0
+### The prototype of the game is open source. Version 1.0.1
 
 **Features: infinite procedurally generated world, almost complete destructible of everything, a very large number of NPCs (up to 1000 in one star system), battles involving hundreds of NPC, gravity is an important game element.**
 
@@ -19,7 +19,7 @@ The source contains all the tools for the development of the game, but you need 
 - Artificial intelligence, with a primitive simulation of life and interaction with each other, the world and the player.
 - Game controller, with a set of weapons and skills.
 
-In the folder [Infinity-Square-Space/Version 1.0/Compiled Builds/](https://github.com/nvjob/Infinity-Square-Space/tree/master/Version%201.0/Compiled%20Builds) are compiled builds of the game, under different API DirectX 11, DirectX 12 and Vulkan.
+In the folder [Infinity-Square-Space/Compiled Builds/](https://github.com/nvjob/Infinity-Square-Space/tree/master/Compiled%20Builds) are compiled builds of the game, under different API DirectX 11, DirectX 12 and Vulkan.
 
 Web version - https://nvjob.itch.io/infinity-square-space-web
 
@@ -33,7 +33,7 @@ Scripting Runtime Version - .net 4.x Equivalent
 
 ### Installation:
 - Create a new project in Unity.
-- Download from the folder [Infinity-Square-Space/Version 1.0/Sources/](https://github.com/nvjob/Infinity-Square-Space/tree/master/Version%201.0/Sources) archive Assets.zip, ProjectSettings.zip and unpack them in the directory of your new project.
+- Download Assets and ProjectSettings and place them in the folder of your new project.
 - Open the desired scene in the Scenes directory.
 
 ![GitHub Logo](https://lh3.googleusercontent.com/iqP50GVSEsAmx2Z-_F30-T7g8y4cxuVRkMTX6QcEd1ZYmXoI415QodXWSH4gb5guusteJGdQHzEwldW8KLfZSV7l2VdvOflkWMi_3lALtn8pTgg5hgtD1ADxTrLpxaWZ7c61Q44yAq9rlIpNhRsg_XJy78qsHi4-4KG09NJjbXkrKMGGj20nOVtxecoik7rmV3Ti-WlschE4lra3x3Twy1vgOVQ-l-Cm_sgYXv_2adxX-YYe1dNE8CfjO4stv4nvPysTQ2NMQuVkLw3gdPq6USpTSvjdteqC8oG6toqgFgADYQf9_kNwg5qWOtm5XA48VLNr3D84qU2oeKLRK89vwiUidndQU4ttn3zVLRvbOpCXlp4nbsnZ8mMXs1MVlEM_RFTccVOYDQOyiyt1LtpH7YrPxIddeI4QVROk8TLwM2XmxhfBFfwETy_tRObJ_saki83YgHdWQy3-NnpuFZw4AtAYqst8e70YlGSqSMCnslbOyYXFp5yotqXE9COXl2tjOhHiegngIIkLwqSXWMUloOtuBzfT4Z1sFwv1Gs-bo-QVA_oqM8qGVXQBxJcvyywb2rEOIJHYd7gEFjE2jNXjDUuBV4w2rB3b4ZQ7LZ195QdF1HxRNsA51d0_Fe7ykJhpyozw_GjGBXTSjSM6KlPKBoB5APaEKWeaN0GHBdvwxSW_JzxQPy65sBmsGzK3R8gCimmeEqE8xdSfwHp-nvezpC9G=w377-h163-no) ![GitHub Logo](https://lh3.googleusercontent.com/5ADpi0JbT2X_uFN4aIBl4T9chy9c8Qc9tlfa6I1mp-lK95gKAQ49wNz8OwjBVP-b4bz5V9PycqWgqxB-sLRzmQ2HxEFFZ5_1uSo1r3PD4LWA0icCX6LHC_MHQVxpkS9cpjamXQnLPIG1xTskVHk_OCaEIdypqltrbwkerAWhCSKKFdCLJv3xyMzCbLxtHxLA58TRmmZ3CXeIJxDHXOhgjKV5M8RiBOB9f20Xb0tFzvVv2X8QLwLObJ9VGXytKZRh05MX0fLCow5UtFCyQi8pJM-IjRezopYOfs2LYqumABKZY6t5926lQtr-XM7tfJ-W3YNCcmqpsrhDrMUpg4122LVsJdLf7FpkvClyWmZi-u8uTKxQPKniAvLpb0sV-MD2UU5TncZcZ0WFBccyYvzMcCiYriHN9EoAXsDoPZX5fusTZo33-6SjDa7Mjz2R80RIXlVHFPqUyZgmDnAW0nPGVN-xl9sq93HTMEcbEhoKeqgMKTmLYbTDrPQv-KzFEE86sf4qe752hlo6Eh69-QSI84PPl8O1AS2Vqdr6l0bsZInXCvlZl3gnqz8SxG3MYR9k2uQp8r2XNp4_dxV6oB7WrRsyWYdB7RKwJLrqA3Fn78rRXHcDaGzh7AbzekVhWvY-Li3IF2X6JXQUcv6J0qcWZUTzmG0KUUbCI3cS8-n3CfY_7oBncixVxreg3i3FbcxpXHK2zkgWww767y3r6wx24R3r=w352-h135-no)
