@@ -4,6 +4,8 @@
 **Features: infinite procedurally generated world, almost complete destructible of everything, a very large number of NPCs (up to 1000 in one star system), battles involving hundreds of NPC, gravity is an important game element.**
 
 Unity Asset Store - https://assetstore.unity.com/packages/templates/packs/infinity-square-space-149923
+Download standalone version on Itch.io - https://nvjob.itch.io/infinity-squarespace-standalone
+WEB version on Itch.io - https://nvjob.itch.io/infinity-square-space-web
 
 https://www.youtube.com/watch?v=sdQvlxmvWGE
 
@@ -18,10 +20,6 @@ The source contains all the tools for the development of the game, but you need 
 - The system of destruction, based on the substitution of objects, objects from the pool of static objects.
 - Artificial intelligence, with a primitive simulation of life and interaction with each other, the world and the player.
 - Game controller, with a set of weapons and skills.
-
-In the folder [Infinity-Square-Space/Compiled Builds/](https://github.com/nvjob/Infinity-Square-Space/tree/master/Compiled%20Builds) are compiled builds of the game, under different API DirectX 11, DirectX 12 and Vulkan.
-
-Web version - https://nvjob.itch.io/infinity-square-space-web
 
 ------------------------------------
 
