@@ -3,7 +3,7 @@
 
 **Features: infinite procedurally generated world, almost complete destructible of everything, a very large number of NPCs (up to 1000 in one star system), battles involving hundreds of NPC, gravity is an important game element.**
 
-https://assetstore.unity.com/packages/templates/packs/infinity-square-space-149923
+Unity Asset Store - https://assetstore.unity.com/packages/templates/packs/infinity-square-space-149923
 
 https://www.youtube.com/watch?v=sdQvlxmvWGE
 
