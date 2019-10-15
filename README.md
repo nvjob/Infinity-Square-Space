@@ -50,7 +50,7 @@ The “StarSystem” script in the “Main” scene is responsible for generatin
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/infinity%20square%20space/101/pic/2.png)
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/infinity%20square%20space/101/pic/7.jpg)
 
-**When you first start in the editor, first start the “Menu” scene to apply the settings of the “Main” scene, which are stored in “PlayerPrefs”. To test the main “Main” scene, you can generate the star systems you need using test seed.**
+When you first start in the editor, first start the “Menu” scene to apply the settings of the “Main” scene, which are stored in “PlayerPrefs”. To test the main “Main” scene, you can generate the star systems you need using test seed.**
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/infinity%20square%20space/101/pic/2a.png)
 
