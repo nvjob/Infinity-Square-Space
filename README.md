@@ -59,16 +59,16 @@ The “StarSystem” script in the “Main” scene is responsible for generatin
 
 ![GitHub Logo](https://lh3.googleusercontent.com/MxY83Nj3Nvlh-MJtwowMkSzgulTPVm6c2kkbyf5utVwlVfRp5G5QS8M13MX7Q5BQbOvKG_1pDKiaRYQ6knQE6owfukIylwusyv4zLtXIm63OXQO3--7PoWIWr9ZOlSEkgBH-6H8YsE-MDCfiqh0U_FSN_ouT0daRPuuZ3rZUkRzOsb-DPiNug2DcXrwIJw4GzKvhPPZlMWCIsMVfeCMGf2cMrBIH3O4Mf524xL_feSkeOskKyrrjnQwjsPDZ0XGx9ACj6KjpWnIoCgwaDsmh4ffM8fV1UNH5Z8uUewE2mevbQSacUrliBz3nGlSViGq2Bl2VqJ2GtKaKSM0dPtNp-N456P9Y_aRBNp2_shJN9pv5E7BMRKJGh3p7CVAIKwAm6AxOJr-rK4-BTWlUOj2GZZmjUR0_GEXBe8LzTr5QTTPTbKe3VKEDspx0BdQEdYGVtlNoqjipU8Rk6v5rWd6L27rgz32eEY59HZ4Z_pT36AhZdDls8Zt1w7L5gayr2ej-G0rPm__POy5nJ8koZsDt9GPf7gzgGwPNUGYarjVuPrvwPaZiXxhSrxyO2mnipe7zVTliqb3l1IpNGOccp_WQRi2K_oVf-xOfsLJOeXZAx2qbBgCcRnKDETgsIWFtEMQg8EFxsNg4_duueBcnNvCnOcVL67EtXSYZDtNFUJLAe5M1uivfB9n4lDK62sk9SZovaj9v-dy3vC2zuK31s2nlECFK=w278-h345-no)
 
-------------------------------------
-
-### Authors
-Designed by #NVJOB Nicholas Veselov | https://nvjob.pro | http://nvjob.dx.am | https://twitter.com/nvjob
-
-### License
-This project is licensed under the MIT License - see the LICENSE file for details
+-------------------------------------------------------------------
 
 ### Notice
 I am aware that sounds do not spread in space. And there are no square planets in space. And gravity works differently.
 
+### Authors
+Designed by #NVJOB Nicholas Veselov | https://nvjob.github.io
+
+### License
+MIT License - https://github.com/nvjob/Infinity-Square-Space/blob/master/LICENSE
+
 ### Donate
-You can thank me by a voluntary donation. https://nvjob.pro/donations.html
+You can thank me by a voluntary donation. https://nvjob.github.io/donate
