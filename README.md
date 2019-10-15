@@ -65,10 +65,11 @@ The “StarSystem” script in the “Main” scene is responsible for generatin
 I am aware that sounds do not spread in space. And there are no square planets in space. And gravity works differently.
 
 ### Authors
-Designed by #NVJOB Nicholas Veselov | https://nvjob.github.io
+Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
 
 ### License
 MIT License - https://github.com/nvjob/Infinity-Square-Space/blob/master/LICENSE
 
 ### Donate
-You can thank me by a voluntary donation. https://nvjob.github.io/donate
+Help for this project - https://nvjob.github.io/donate
+
