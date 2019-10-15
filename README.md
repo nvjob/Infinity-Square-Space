@@ -24,8 +24,7 @@ The source contains all the tools for the development of the game, but you need 
 
 ### Prerequisites
 
-To work on the project, you will need a Unity version of at least 2019.1.8 or higher (64-bit).
-
+To work on the project, you will need a Unity version of at least 2019.1.8 or higher (64-bit).<br/>
 Scripting Runtime Version - .net 4.x Equivalent 
 
 ### Installation:
