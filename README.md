@@ -8,7 +8,7 @@ Download standalone version on Itch.io - https://nvjob.itch.io/infinity-squaresp
 WEB version on Itch.io - https://nvjob.itch.io/infinity-square-space-web <br/>
 Youtube Playlist - https://www.youtube.com/watch?v=bXknNJuUaqw&list=PLx2nWTlZiNY6KviW33FH4cOD2KDCApEsk
 
-![GitHub Logo](https://lh3.googleusercontent.com/tpbG3hDN0wGz4SwWRBkhbzQ9qaLs4iTgfsbm1IA7cdQiXAxcElqr69NJWYEcqTwotzQFspWHvogvTXW_sOCp86eCuxc9ydsjTQb5FhQPHwdqghPnjnsGo5hImIBRKMbcRSnoMZW9_TnYrNGKW5nqw1KwNXSfGqaMV6QhAlL_FS2Dfb1Klb7oQdKXqMe4FoxsBQcpaybGHTkvxsBmlxeTiZO6tBAVa9jLSL9c7vou2W0iS3DpdDyjS8iKxrfUOYIYksAMFZd4PdTuoBiAh-y572PYTOpb_P2_ve-lyVJflSJhjGtsZ4yMrG5Gs3TeJHUrk7PvAklS_y3I9OgpZUp5o87WeMr_agexp-uunAp5YpgJ2CervaaSqCyPvBta4rRze4gJlt91rUvv4brsKWXAvkk2kJhco9lzfxLV-qjKrSXH6vRMtrm9oJpTnMYNzeosoLzddJsSmJDTHRioCFFDSs-HGYrGJEQ-aJ_ZexVSkKSN9pjQ5cJq8qM5ffIzT7Et1oD2dpqsO8WaEPhr6q4-uEnGxb8R2JD6AW7vyipID8ev-lcvhbLeWQR1EITegp3SLD2oDn6qndWMhhqVBNnVBPgk9hMojD6JQXV54mMWkYlAW1z0l3zw7tMJTL65nBukDcMMJlQtbzPwxpEmIy-K3L80AXR7lMi0T63aQGSG2ZGpquun6A5Xm7vcLzahYCn0IqfERpWKZ_EUTYpJ5zcbbTk_=w1741-h979-no)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/infinity%20square%20space/101/pic/10.jpg)
 
 This prototype of the game is completely playable, but nevertheless, this is not a complete game.
 The source contains all the tools for the development of the game, but you need the above-average programming skill. There are no comments in the code, but the code itself is well structured, all the scripts and shaders, functions and variables are named so that it is clear what they are responsible for.
