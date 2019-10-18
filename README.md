@@ -63,7 +63,7 @@ I am aware that sounds do not spread in space. And there are no square planets i
 Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
 
 ### License
-MIT License - https://github.com/nvjob/Infinity-Square-Space/blob/master/LICENSE
+MIT License - https://nvjob.github.io/mit-license
 
 ### Donate
 Help for this project - https://nvjob.github.io/donate
