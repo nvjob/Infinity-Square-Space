@@ -1,6 +1,7 @@
-# Infinity Square/Space.
-**The prototype of the game is open source. Version 1.0.1**
+# Infinity Square/Space 1.0.1
+#### [nvjob.github.io/unity/infinity-square-space](https://nvjob.github.io/unity/infinity-square-space)
 
+The prototype of the game is open source.<br/>
 Features: infinite procedurally generated world, almost complete destructible of everything, a very large number of NPCs (up to 1000 in one star system), battles involving hundreds of NPC, gravity is an important game element.
 
 Unity Asset Store - https://assetstore.unity.com/packages/templates/packs/infinity-square-space-149923 <br/>
