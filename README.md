@@ -1,17 +1,15 @@
 # Infinity Square/Space 1.0.1
 #### [nvjob.github.io/unity/infinity-square-space](https://nvjob.github.io/unity/infinity-square-space)
 
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/infinity%20square%20space/101/pic/10.jpg)
+
 The prototype of the game is open source.<br/>
 Features: infinite procedurally generated world, almost complete destructible of everything, a very large number of NPCs (up to 1000 in one star system), battles involving hundreds of NPC, gravity is an important game element.
 
-Unity Asset Store - https://assetstore.unity.com/packages/templates/packs/infinity-square-space-149923 <br/>
-Download standalone version on Itch.io - https://nvjob.itch.io/infinity-squarespace-standalone <br/>
-WEB version on Itch.io - https://nvjob.itch.io/infinity-square-space-web <br/>
-Youtube Playlist - https://www.youtube.com/watch?v=bXknNJuUaqw&list=PLx2nWTlZiNY6KviW33FH4cOD2KDCApEsk
+**Download standalone version on Itch.io** - https://nvjob.itch.io/infinity-squarespace-standalone <br/>
+**WEB version on Itch.io** - https://nvjob.itch.io/infinity-square-space-web
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/infinity%20square%20space/101/pic/10.jpg)
-
-This prototype of the game is completely playable, but nevertheless, this is not a complete game.
+This prototype of the game is completely playable, but nevertheless, this is not a complete game.<br/>
 The source contains all the tools for the development of the game, but you need the above-average programming skill. There are no comments in the code, but the code itself is well structured, all the scripts and shaders, functions and variables are named so that it is clear what they are responsible for.
 
 **This game prototype consists of five main parts:**
@@ -21,7 +19,7 @@ The source contains all the tools for the development of the game, but you need 
 - Artificial intelligence, with a primitive simulation of life and interaction with each other, the world and the player.
 - Game controller, with a set of weapons and skills.
 
-------------------------------------
+-------------------------------------------------------------------
 
 ### Prerequisites
 
@@ -57,16 +55,10 @@ When you first start in the editor, first start the “Menu” scene to apply th
 
 -------------------------------------------------------------------
 
-**Authors:**<br>
-#NVJOB Nicholas Veselov<br>
-https://nvjob.github.io
+**Authors:** #NVJOB Nicholas Veselov - [nvjob.github.io](https://nvjob.github.io)
 
-**License:**<br>
-MIT License<br>
-Clarification of licenses: https://nvjob.github.io/mit-license
+**License:** MIT License. Clarification of licenses - [nvjob.github.io/mit-license](https://nvjob.github.io/mit-license)
 
-**Support:**<br>
-https://nvjob.github.io/support
+**Support:** [nvjob.github.io/support](https://nvjob.github.io/support)
 
-**Report a Problem / Issue Tracker / FAQ:**<br>
-https://nvjob.github.io/reportaproblem
+**Report a Problem / Issue Tracker / FAQ:** [nvjob.github.io/reportaproblem](https://nvjob.github.io/reportaproblem)
