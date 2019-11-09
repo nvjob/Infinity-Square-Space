@@ -56,17 +56,16 @@ When you first start in the editor, first start the “Menu” scene to apply th
 
 -------------------------------------------------------------------
 
-### Notice
-I am aware that sounds do not spread in space. And there are no square planets in space. And gravity works differently.
+**Authors:**<br>
+#NVJOB Nicholas Veselov<br>
+https://nvjob.github.io
 
-### Authors
-Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
+**License:**<br>
+MIT License<br>
+Clarification of licenses: https://nvjob.github.io/mit-license
 
-### License
-MIT License - https://nvjob.github.io/mit-license
+**Support:**<br>
+https://nvjob.github.io/support
 
-### Donate
-Help for this project - https://nvjob.github.io/donate
-
-### Report a Problem
-Report a Problem / Issue Tracker / FAQ - https://nvjob.github.io/reportaproblem
+**Report a Problem / Issue Tracker / FAQ:**<br>
+https://nvjob.github.io/reportaproblem
