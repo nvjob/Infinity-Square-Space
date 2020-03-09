@@ -52,6 +52,11 @@ When you first start in the editor, first start the “Menu” scene to apply th
 
 -------------------------------------------------------------------
 
+**Patrons:** [nvjob.github.io/patrons](https://nvjob.github.io/patrons)<br>
+*You can become one of the patrons, or make a sponsorship donation.*
+
+-------------------------------------------------------------------
+
 **Authors:** #NVJOB Nicholas Veselov - [nvjob.github.io](https://nvjob.github.io)
 
 **License:** MIT License. Clarification of licenses - [nvjob.github.io/mit-license](https://nvjob.github.io/mit-license)
