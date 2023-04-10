@@ -56,4 +56,5 @@ When you first start in the editor, first start the “Menu” scene to apply th
 
 **License:** MIT License. [Clarification of licenses](https://nvjob.github.io/mit-license).
 
-**Sorry:** This project is currently frozen and cannot be supported or updated due to its complete non-profitability.
+**🖤 Donate:** <br>
+[paypal.me/nvjob](https://paypal.me/nvjob)
